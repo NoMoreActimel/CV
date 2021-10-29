@@ -22,7 +22,6 @@
 - Octave
 - LaTeX
 - SQL
-- Lisp
 
 #### Courses passed
 - Fundamentals and Methodology of Programming in Python and C++
