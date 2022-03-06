@@ -29,13 +29,13 @@
 - Advanced course of Linear Algebra
 - Calculus 1st year course
 - Discrete Mathematics course
+- Advanced course of C++
 ##### Machine Learning
 - Linear regression
 - Logistic regression
 - Regularization
 
 #### Currently studying
-- Advanced course of C++
 - Computer Architecture and Operating Systems
 - Calculus 2nd year course
 - Probability Theory and Mathematical Statistics
