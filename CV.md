@@ -6,7 +6,7 @@
 
 
 ### Contacts
-- email: sasedov@edu.hse.ru
+- email: evolution3000futurama@gmail.com
 - telegram: @NoMoreActimel
 - phone: +79167850521
 
