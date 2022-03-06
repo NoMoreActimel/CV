@@ -1,7 +1,7 @@
 ## Sedov Sergey
 
 ### Personal information
-- 18 y.o. HSE CS student
+- 19 y.o. HSE CS student
 - Moscow, Russia
 
 
