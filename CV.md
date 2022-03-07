@@ -19,6 +19,7 @@
 - JupyterNotebook
 - Bash
 - git
+- gdb
 - Octave
 - LaTeX
 - SQL
