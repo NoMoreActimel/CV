@@ -31,6 +31,7 @@
 - Advanced course of Linear Algebra
 - Calculus 1st year course
 - Discrete Mathematics course
+- Probability Theory course
 - Advanced course of C++
 ##### Machine Learning
 - Linear regression
@@ -40,12 +41,15 @@
 #### Currently studying
 - Computer Architecture and Operating Systems
 - Calculus 2nd year course
-- Probability Theory and Mathematical Statistics
+- Mathematical Statistics
 
 
 ### Achievements
 - First year Bachelor GPA - 8.41
-- Won several school olympiads in Maths and Physics.
+- Won several school olympiads in Maths and Physics:
+  * MIPT Mathematics Olympiad - 1st Degree
+  * MIPT Physics Olympiad - 1st Degree
+  * SPbSU Mathematics Olympiad - 1st Degree
 
 ### Education
 #### School 
