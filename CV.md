@@ -57,4 +57,4 @@
 #### Bachelor Undergraduate
 2020-2024 HSE, Faculty of Computer Science, Applied Mathematics and Informatics
 
-### English - B2/C1
+### English - C1
