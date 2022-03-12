@@ -1,7 +1,7 @@
 ## Sedov Sergey
 
 ### Personal information
-- 19 y.o. HSE CS student
+- 19 y.o. HSE CS Applied Mathematics and Informatics undergraduate
 - Moscow, Russia
 
 
@@ -55,6 +55,6 @@
 #### School 
 2016-2020 Lyceum "Second School"
 #### Bachelor Undergraduate
-2020-2024 HSE, Faculty of Computer Science, Applied Mathematics and Informatics
+2020-2024 HSE, Faculty of Computer Science, Applied Mathematics and Informatics, Math flow
 
 ### English - C1
