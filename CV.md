@@ -23,6 +23,7 @@
 - Octave
 - LaTeX
 - SQL
+- Deployed telegram bot on server via Dockerhub
 
 #### Courses passed
 - Fundamentals and Methodology of Programming in Python and C++
