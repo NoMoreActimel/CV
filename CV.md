@@ -27,7 +27,7 @@
 
 #### Courses passed
 - Fundamentals and Methodology of Programming in Python and C++
-- Algorithm and Data Structures
+- Algorithms and Data Structures
 - Advanced course of Linear Algebra
 - Calculus 1st year course
 - Discrete Mathematics course
@@ -42,6 +42,7 @@
 - Computer Architecture and Operating Systems
 - Calculus 2nd year course
 - Mathematical Statistics
+- Fundaments of Matrix Computing
 
 
 ### Achievements
